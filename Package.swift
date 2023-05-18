@@ -29,8 +29,8 @@ let package = Package(
 				path: "Sources"),
 		.binaryTarget(
 			name: "GXCoreModule_SD_Beacons",
-			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Beacons-1.0.0-beta+20230516174834.xcframework.zip",
-			checksum: "39eee47ee5dc0b0938286e797849f6cfa7e7158c277b430b96465efc7937bf6a"
+			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Beacons-1.0.0-beta+20230518171417.xcframework.zip",
+			checksum: "e0c634f0f35d53d99b63651440cc3ae66db41790e436e42a35040ac9a3d9b774"
 		)
 	]
 )
