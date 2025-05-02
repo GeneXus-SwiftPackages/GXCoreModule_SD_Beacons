@@ -10,7 +10,7 @@ let package = Package(
 			targets: ["GXCoreModule_SD_BeaconsWrapper"])
 	],
 	dependencies: [
-		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreBL.git", exact: "3.0.3")
+		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreBL.git", exact: "3.0.4")
 	],
 	targets: [
 		.target(name: "GXCoreModule_SD_BeaconsWrapper",
@@ -21,8 +21,8 @@ let package = Package(
 				path: "Sources"),
 		.binaryTarget(
 			name: "GXCoreModule_SD_Beacons",
-			url: "https://pkgs.genexus.dev/iOS/releases/GXCoreModule_SD_Beacons-3.0.3.xcframework.zip",
-			checksum: "9d75746ea8e2c45aef41f1b47b4272c794e965a611208b296f8702e2a4167d48"
+			url: "https://pkgs.genexus.dev/iOS/releases/GXCoreModule_SD_Beacons-3.0.4.xcframework.zip",
+			checksum: "a6b39cd0f6fa7210ed668bba3f93f7c60ebfacef74b282e95f739eac4af58770"
 		)
 	]
 )
